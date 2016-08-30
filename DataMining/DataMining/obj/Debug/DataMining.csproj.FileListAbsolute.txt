@@ -1,0 +1,150 @@
+D:\download\iva_2\skripsweet\TeguhProject\TeguhProject\bin\Debug\SkripSweet.exe.config
+D:\download\iva_2\skripsweet\TeguhProject\TeguhProject\obj\Debug\SkripSweet.exe
+D:\download\iva_2\skripsweet\TeguhProject\TeguhProject\obj\Debug\SkripSweet.pdb
+D:\download\iva_2\skripsweet\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\download\iva_2\skripsweet\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\download\iva_2\skripsweet\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\download\iva_2\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\download\skripsweet2\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\download\skripsweet2\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\download\skripsweet2\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\download\skripsweet2\DataMining\DataMining\obj\Debug\SkripSweet.ProsesAsosiasi.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\bin\Debug\MySql.Data.dll
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\bin\Debug\MySql.Data.xml
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.ProsesAsosiasi.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\WORKOUT\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Pemaketan.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Pemaketan.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.ProsesAsosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Pemaketan.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.ProsesAsosiasi.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\MySql.Data.dll
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\bin\Debug\MySql.Data.xml
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Pemaketan.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.ProsesAsosiasi.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\WORKOUT\skripsweet_iva\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Pemaketan.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.ProsesAsosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\Kuliah\Semester 8\Skripsi\Skripsi Shativa Sonrisa\Program Akhir\skripsweet_iva\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\bin\Debug\SkripSweet.exe.config
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\bin\Debug\SkripSweet.exe
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\bin\Debug\SkripSweet.pdb
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\DataMining.Asosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\SkripSweet.Pemaketan.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\DataMining.Preprocessing.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\DataMining.Persiapan.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\SkripSweet.Properties.Resources.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\SkripSweet.ProsesAsosiasi.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\SkripSweet.splash.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\DataMining.Utama.resources
+D:\Kuliah\Semester 8\Skripsi\DOKUMENTASI\CD\PROGRAM\Program 10112281\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
